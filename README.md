@@ -1,4 +1,4 @@
-# OLA_Ride_Analysis_Dashboard
+# OLA_Rider_Analysis_Dashboard
 
 Optimizing ride patterns and revenue insights is crucial for improving operational efficiency in ride-hailing services. To explore this, I built an Ola Rider Analysis Dashboard using Excel, SQL, and Power BI, focusing on key performance metrics and customer behavior.
 
